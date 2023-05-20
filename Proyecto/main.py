@@ -1,5 +1,4 @@
 from funciones import *
-
 def main(): 
     generos_mas_vendidos = leer("generosMasVendidos.txt")
     artistas_mas_vendidos = leer("artistaMasVendido.txt")
